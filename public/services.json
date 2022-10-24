@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Oil Change",
+        "price": "450",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odit, incidunt.",
+        "img": "https://i.ibb.co/1XRThfk/maxim-hopman-s4d-ESS0yl-A-unsplash.jpg"
+    },
+    {
+        "id": 2,
+        "name": " Wheel Alignment",
+        "price": "400",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odit, incidunt.",
+        "img": "https://i.ibb.co/VmDd0xh/sten-rademaker-UZUzv-JEv-Kn-I-unsplash.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Engine Diagonistic",
+        "price": "500",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odit, incidunt.",
+        "img": "https://i.ibb.co/1L8mnXP/nina-mercado-Y-t0n-T4-H5-M-unsplash.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Brake Repairing",
+        "price": "600",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odit, incidunt.",
+        "img": "https://i.ibb.co/JjvjDT2/kate-ibragimova-b-EGTs-OCn-Hro-unsplash.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Wash And Glassing",
+        "price": "800",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odit, incidunt.",
+        "img": "https://i.ibb.co/z275YpM/kate-ibragimova-i-FQpqb-LMOFU-unsplash.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Complete Analysis",
+        "price": "1000",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odit, incidunt.",
+        "img": "https://i.ibb.co/FzNYKNs/arseny-togulev-x-TXIAVRI3r-A-unsplash.jpg"
+    }
+]
